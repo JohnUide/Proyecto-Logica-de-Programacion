@@ -1,2 +1,2 @@
-# Proyecto-Logica de Programa
+# Proyecto-Logica de Programacion
 Proyecto para Logica de Programacion, en este apartado se encuentran los distintos diagramas que cree, diagrama de caso de uso, de arquitectura, y de flujo correspondientes al software elegido "El Juego del Ahorcado", tambien se encuentra el software ya codificado para empezar las pruebas correspondientes sobre si funciona correctamente, ademas tenemos el video explicativo del como se desarrollo el software.
